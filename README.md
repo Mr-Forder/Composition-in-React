@@ -8,6 +8,6 @@ Here's a very simple rundown of how it works.
 
 ## To get Started
 
-'''npm install
+``npm install
 
-'''npm start
+``npm start
